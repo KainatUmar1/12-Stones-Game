@@ -35,5 +35,5 @@ This project is a console-based game application developed in C++. The game incl
 - Text.txt: Input file for initializing the game board.
 
 # Author
-[Kainat Umar] 
-Developer of the Console Based 12-stones Game Application
+- [Kainat Umar]
+    - Developer of the Console Based 12-stones Game Application
