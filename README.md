@@ -1,7 +1,7 @@
 # 12-Stones Console Game Application
 
 # Project Overview
-This project is a console-based game application developed in C++. The game includes functionalities for handling user inputs, managing console colors, and initializing the game board from a file. The game involves two players, each assigned a different color, competing on a game board.
+This project is a **console-based 12-tehni game application** developed in C++. The game includes functionalities for handling user inputs, managing console colors, and initializing the game board from a file. The game involves two players, each assigned a different color, competing on a game board.
 
 # Features
 - User Input Handling: Utilizes mouse clicks for user interactions on the console.
@@ -10,8 +10,8 @@ This project is a console-based game application developed in C++. The game incl
 - Player Management: Supports two players with different colors and symbols.
 
 # Files
-- 12-tehni.cpp: Main source code file for the console game application.
-- Text.txt: Input file used to initialize the game board dimensions and state.
+- **12-tehni.cpp**: Main source code file for the console game application.
+- **Text.txt**: Input file used to initialize the game board dimensions and state.
 
 # How to Use
 # Prerequisites
@@ -35,5 +35,4 @@ This project is a console-based game application developed in C++. The game incl
 - Text.txt: Input file for initializing the game board.
 
 # Author
-- [Kainat Umar]
-    - Developer of the Console Based 12-stones Game Application
+- **Kainat Umar** - *Developer of the Console Based 12-stones Game Application*
